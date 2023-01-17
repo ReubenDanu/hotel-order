@@ -1,0 +1,3 @@
+temporary task :
+create a models for interaction to database such as
+giving a admin to retrieve a available room
